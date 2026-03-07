@@ -7,13 +7,13 @@
     "android64": "2.2081",
     "ios":       "2.2081"
   },
-  "id":          "yourname.quadrocoop",
+  "id":          "derland6666.QuadroCoop",
   "name":        "QuadroCoop",
   "version":     "v2.0.0",
-  "developer":   "YourName",
+  "developer":   "Derland6666",
   "description": "4-player local co-op for Geometry Dash platformer mode. Supports P1-P4 with independent keybinds, trigger cloning, dual portal logic, and an in-game settings menu.",
-  "repository":  "https://github.com/yourname/quadrocoop",
-  "tags": ["gameplay", "multiplayer", "platformer", "co-op"],
+  "repository":  "https://github.com/Derland6666/QuadroCoop",
+  "tags": ["gameplay"],
 
   "settings": {
     "enable-p3": {
